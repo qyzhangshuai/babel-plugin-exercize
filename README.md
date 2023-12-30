@@ -39,5 +39,7 @@ node ./exercize-linter/src/eq-lint-entry.js （或其他路径）
 然后点击 debug 面板的运行按钮，打断点调试
 
 
+## 学习
+[初学 Babel 工作原理](https://zhuanlan.zhihu.com/p/85915575)
 
 
